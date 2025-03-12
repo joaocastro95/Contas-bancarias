@@ -28,7 +28,7 @@ Para testar o projeto localmente, siga estas etapas:
 4. Siga as instruções no terminal para criar uma conta e realizar operações bancárias.
 
 #### 📝 Observação
-Se você encontrar algum problema ou bug, consulte a seção de [Autores] e entre em contato conosco.
+Se você encontrar algum problema ou bug, consulte a seção de [Autores](#-autores) e entre em contato conosco.
 
 ## 🛠️ Estrutura do Projeto
 A estrutura foi organizada para facilitar a manutenção e compreensão do código:
